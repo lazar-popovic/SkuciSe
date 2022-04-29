@@ -1,4 +1,4 @@
-package database;
+package com.example.skucise.database;
 import java.sql.*;
 import java.sql.DriverManager;
 
@@ -36,6 +36,5 @@ public class Test
         }
         return rs;
     }
-
 
 }

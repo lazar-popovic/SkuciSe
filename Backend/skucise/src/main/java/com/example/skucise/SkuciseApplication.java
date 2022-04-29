@@ -1,7 +1,7 @@
 package com.example.skucise;
 
-import database.Test;
-import modeli.Oglas;
+import com.example.skucise.database.Test;
+import com.example.skucise.modeli.Oglas;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

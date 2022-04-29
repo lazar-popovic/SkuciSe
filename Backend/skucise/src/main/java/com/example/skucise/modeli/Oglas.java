@@ -1,4 +1,4 @@
-package modeli;
+package com.example.skucise.modeli;
 
 public class Oglas
 {
